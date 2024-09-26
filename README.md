@@ -12,7 +12,7 @@
 ### 예시
 
 ```bash
-git clone git@github.com:HateSlop/crawling.git  # 클론
+git clone git@github.com:Nakedgreeen/crawling.git  # 클론
 cd crawling # 프로젝트 루트로 이동
 git checkout -b Minseok # 브랜치 생성 (본인의 브랜치, 폴더 등 생성)
 mkdir Minseok # 개인 폴더 만들기
