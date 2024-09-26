@@ -15,11 +15,11 @@
 git clone git@github.com:HateSlop/crawling.git  # 클론
 cd crawling # 프로젝트 루트로 이동
 git checkout -b Minseok # 브랜치 생성 (본인의 브랜치, 폴더 등 생성)
-mkdir minseonghan # 개인 폴더 만들기
-cd minseonghan # 개인 폴더로 이동
+mkdir Minseok # 개인 폴더 만들기
+cd Minseok # 개인 폴더로 이동
 git add . # 작업 후 add
 git commit -m "[feat] ~~" # 커밋
-git push origin minseongh # 오리진에 푸시
+git push origin Minseok # 오리진에 푸시
 ```
 
 ### 폴더구조
